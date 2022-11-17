@@ -1,0 +1,58 @@
+C:\Users\koche\Desktop\Новая папка\UserStory_Airport\UserStory_Airoport\bin\Debug\net6.0-windows\UserStory_Airoport.exe
+C:\Users\koche\Desktop\Новая папка\UserStory_Airport\UserStory_Airoport\bin\Debug\net6.0-windows\UserStory_Airoport.deps.json
+C:\Users\koche\Desktop\Новая папка\UserStory_Airport\UserStory_Airoport\bin\Debug\net6.0-windows\UserStory_Airoport.runtimeconfig.json
+C:\Users\koche\Desktop\Новая папка\UserStory_Airport\UserStory_Airoport\bin\Debug\net6.0-windows\UserStory_Airoport.dll
+C:\Users\koche\Desktop\Новая папка\UserStory_Airport\UserStory_Airoport\bin\Debug\net6.0-windows\UserStory_Airoport.pdb
+C:\Users\koche\Desktop\Новая папка\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.csproj.AssemblyReference.cache
+C:\Users\koche\Desktop\Новая папка\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.Form1.resources
+C:\Users\koche\Desktop\Новая папка\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.FlightsForm.resources
+C:\Users\koche\Desktop\Новая папка\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.csproj.GenerateResource.cache
+C:\Users\koche\Desktop\Новая папка\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koche\Desktop\Новая папка\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.AssemblyInfoInputs.cache
+C:\Users\koche\Desktop\Новая папка\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.AssemblyInfo.cs
+C:\Users\koche\Desktop\Новая папка\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.csproj.CoreCompileInputs.cache
+C:\Users\koche\Desktop\Новая папка\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.dll
+C:\Users\koche\Desktop\Новая папка\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\refint\UserStory_Airoport.dll
+C:\Users\koche\Desktop\Новая папка\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.pdb
+C:\Users\koche\Desktop\Новая папка\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.genruntimeconfig.cache
+C:\Users\koche\Desktop\Новая папка\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\ref\UserStory_Airoport.dll
+C:\Users\koche\Desktop\NuGet\UserStory_Airport\UserStory_Airoport\bin\Debug\net6.0-windows\UserStory_Airoport.exe
+C:\Users\koche\Desktop\NuGet\UserStory_Airport\UserStory_Airoport\bin\Debug\net6.0-windows\UserStory_Airoport.deps.json
+C:\Users\koche\Desktop\NuGet\UserStory_Airport\UserStory_Airoport\bin\Debug\net6.0-windows\UserStory_Airoport.runtimeconfig.json
+C:\Users\koche\Desktop\NuGet\UserStory_Airport\UserStory_Airoport\bin\Debug\net6.0-windows\UserStory_Airoport.dll
+C:\Users\koche\Desktop\NuGet\UserStory_Airport\UserStory_Airoport\bin\Debug\net6.0-windows\UserStory_Airoport.pdb
+C:\Users\koche\Desktop\NuGet\UserStory_Airport\UserStory_Airoport\bin\Debug\net6.0-windows\LogicPshenichnikova.dll
+C:\Users\koche\Desktop\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.csproj.AssemblyReference.cache
+C:\Users\koche\Desktop\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.Form1.resources
+C:\Users\koche\Desktop\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.FlightsForm.resources
+C:\Users\koche\Desktop\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.csproj.GenerateResource.cache
+C:\Users\koche\Desktop\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koche\Desktop\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.AssemblyInfoInputs.cache
+C:\Users\koche\Desktop\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.AssemblyInfo.cs
+C:\Users\koche\Desktop\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.csproj.CoreCompileInputs.cache
+C:\Users\koche\Desktop\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.csproj.CopyComplete
+C:\Users\koche\Desktop\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.dll
+C:\Users\koche\Desktop\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\refint\UserStory_Airoport.dll
+C:\Users\koche\Desktop\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.pdb
+C:\Users\koche\Desktop\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.genruntimeconfig.cache
+C:\Users\koche\Desktop\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\ref\UserStory_Airoport.dll
+E:\Маша\Коноплёв\NuGet\UserStory_Airport\UserStory_Airoport\bin\Debug\net6.0-windows\UserStory_Airoport.exe
+E:\Маша\Коноплёв\NuGet\UserStory_Airport\UserStory_Airoport\bin\Debug\net6.0-windows\UserStory_Airoport.deps.json
+E:\Маша\Коноплёв\NuGet\UserStory_Airport\UserStory_Airoport\bin\Debug\net6.0-windows\UserStory_Airoport.runtimeconfig.json
+E:\Маша\Коноплёв\NuGet\UserStory_Airport\UserStory_Airoport\bin\Debug\net6.0-windows\UserStory_Airoport.dll
+E:\Маша\Коноплёв\NuGet\UserStory_Airport\UserStory_Airoport\bin\Debug\net6.0-windows\UserStory_Airoport.pdb
+E:\Маша\Коноплёв\NuGet\UserStory_Airport\UserStory_Airoport\bin\Debug\net6.0-windows\LogicPshenichnikova.dll
+E:\Маша\Коноплёв\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.csproj.AssemblyReference.cache
+E:\Маша\Коноплёв\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.Form1.resources
+E:\Маша\Коноплёв\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.FlightsForm.resources
+E:\Маша\Коноплёв\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.csproj.GenerateResource.cache
+E:\Маша\Коноплёв\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.GeneratedMSBuildEditorConfig.editorconfig
+E:\Маша\Коноплёв\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.AssemblyInfoInputs.cache
+E:\Маша\Коноплёв\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.AssemblyInfo.cs
+E:\Маша\Коноплёв\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.csproj.CoreCompileInputs.cache
+E:\Маша\Коноплёв\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.csproj.CopyComplete
+E:\Маша\Коноплёв\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.dll
+E:\Маша\Коноплёв\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\refint\UserStory_Airoport.dll
+E:\Маша\Коноплёв\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.pdb
+E:\Маша\Коноплёв\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\UserStory_Airoport.genruntimeconfig.cache
+E:\Маша\Коноплёв\NuGet\UserStory_Airport\UserStory_Airoport\obj\Debug\net6.0-windows\ref\UserStory_Airoport.dll

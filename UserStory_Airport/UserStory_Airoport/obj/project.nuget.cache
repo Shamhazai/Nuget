@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zFrao7IxownqpSLDmS26Ef8TfzLmIWztLbpe4hB/Uj6uAJJRnwK3SWwe1Lq/XJJnLmC7EE1BBVatQpMqYeBraQ==",
+  "success": true,
+  "projectFilePath": "E:\\Маша\\Коноплёв\\NuGet\\UserStory_Airport\\UserStory_Airoport\\UserStory_Airoport.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Professional\\.nuget\\packages\\logicpshenichnikova\\1.0.0\\logicpshenichnikova.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

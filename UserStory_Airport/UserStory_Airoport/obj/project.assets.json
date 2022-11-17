@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "LogicPshenichnikova/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/LogicPshenichnikova.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/LogicPshenichnikova.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LogicPshenichnikova/1.0.0": {
+      "sha512": "+fJD74sn27jBEuguRr0loPvXiQpDC0KpJDocwkjqDW5joKPzjdBo2W/A4+QdrgFPMstq1/pJnKKSF8r2dgGprg==",
+      "type": "package",
+      "path": "logicpshenichnikova/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        "lib/net6.0/LogicPshenichnikova.dll",
+        "license.txt",
+        "logicpshenichnikova.1.0.0.nupkg.sha512",
+        "logicpshenichnikova.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "LogicPshenichnikova >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Professional\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Маша\\Коноплёв\\NuGet\\UserStory_Airport\\UserStory_Airoport\\UserStory_Airoport.csproj",
+      "projectName": "UserStory_Airoport",
+      "projectPath": "E:\\Маша\\Коноплёв\\NuGet\\UserStory_Airport\\UserStory_Airoport\\UserStory_Airoport.csproj",
+      "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
+      "outputPath": "E:\\Маша\\Коноплёв\\NuGet\\UserStory_Airport\\UserStory_Airoport\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Professional\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "LogicPshenichnikova": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

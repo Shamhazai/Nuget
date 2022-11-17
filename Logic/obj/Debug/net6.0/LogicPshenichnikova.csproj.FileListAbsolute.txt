@@ -1,0 +1,12 @@
+C:\Users\koche\Desktop\NuGet\Logic\bin\Debug\net6.0\LogicPshenichnikova.deps.json
+C:\Users\koche\Desktop\NuGet\Logic\bin\Debug\net6.0\LogicPshenichnikova.dll
+C:\Users\koche\Desktop\NuGet\Logic\bin\Debug\net6.0\LogicPshenichnikova.pdb
+C:\Users\koche\Desktop\NuGet\Logic\obj\Debug\net6.0\LogicPshenichnikova.csproj.AssemblyReference.cache
+C:\Users\koche\Desktop\NuGet\Logic\obj\Debug\net6.0\LogicPshenichnikova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koche\Desktop\NuGet\Logic\obj\Debug\net6.0\LogicPshenichnikova.AssemblyInfoInputs.cache
+C:\Users\koche\Desktop\NuGet\Logic\obj\Debug\net6.0\LogicPshenichnikova.AssemblyInfo.cs
+C:\Users\koche\Desktop\NuGet\Logic\obj\Debug\net6.0\LogicPshenichnikova.csproj.CoreCompileInputs.cache
+C:\Users\koche\Desktop\NuGet\Logic\obj\Debug\net6.0\LogicPshenichnikova.dll
+C:\Users\koche\Desktop\NuGet\Logic\obj\Debug\net6.0\refint\LogicPshenichnikova.dll
+C:\Users\koche\Desktop\NuGet\Logic\obj\Debug\net6.0\LogicPshenichnikova.pdb
+C:\Users\koche\Desktop\NuGet\Logic\obj\Debug\net6.0\ref\LogicPshenichnikova.dll

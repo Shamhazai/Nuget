@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LogicPshenichnikova</id>
+    <version>1.0.0</version>
+    <authors>Pshenichnikova</authors>
+    <license type="file">license.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\koche\Desktop\NuGet\Logic\bin\Debug\net6.0\LogicPshenichnikova.dll" target="lib\net6.0\LogicPshenichnikova.dll" />
+    <file src="C:\Users\koche\Desktop\NuGet\Logic\License\license.txt" target="license.txt" />
+  </files>
+</package>
